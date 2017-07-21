@@ -54,7 +54,7 @@ data/modsフォルダの中に、Daizu_modフォルダをコピーして下さ�
 ## [3.0.0](https://github.com/hirmiura/cdda-mod-Daizu/tree/3.0.0) (2017-07-22)
 
 - フォーク後の初リリース
-- modinfoの作者が表示されていなかったを修正
+- modinfoの作者が表示されていなかったのを修正
 - cdda#6603で確認
 
 ## 2.00 (2016-05-11)
