@@ -1,2 +1,3 @@
 # cdda-mod-Daizu
-Cataclysm:DDAに大豆を追加するmod
+[Cataclysm: Dark Days Ahead](http://www.cataclysmdda.com/) に大豆を追加するmodです。
+これはオリジナルからのフォークです。
