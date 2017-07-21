@@ -1,11 +1,11 @@
    {
-       "type": "MOD_INFO",
-       "mod_type": "SUPPLEMENTAL",
-       "ident": "Daizu_mod",
-       "name": "追加 - 大豆パック",
-       "description": "大豆と関連のレシピを追加します。気が向きましたら、どうぞ。",
-       "author": "火男",
-		"dependencies": ["Uekibati_mod"],
-		"category": "items",
-       "path": ""
+     "type": "MOD_INFO",
+     "mod_type": "SUPPLEMENTAL",
+     "ident": "Daizu_mod",
+     "name": "追加 - 大豆パック",
+     "description": "大豆と関連のレシピを追加します。気が向きましたら、どうぞ。",
+     "author": "火男",
+     "dependencies": ["Uekibati_mod"],
+     "category": "items",
+     "path": ""
    }

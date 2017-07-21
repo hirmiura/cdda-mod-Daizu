@@ -1,19 +1,17 @@
-[
-    {
-        "id": "straw_pack",
-        "type": "CONTAINER",
-        "symbol": ",",
-        "color": "light_gray",
-        "name": "藁パック",
-        "name_plural": "藁パック",
-        "category": "other",
-        "description": "納豆を包んでいた藁です。再利用可能。",
-        "price": 0,
-        "weight": 2,
-        "volume": 0,
-        "to_hit": -1,
-        "contains": 10,
-        "rigid": false,
-        "material": "paper"
-    }
-]
+[{
+  "id": "straw_pack",
+  "type": "CONTAINER",
+  "symbol": ",",
+  "color": "light_gray",
+  "name": "藁パック",
+  "name_plural": "藁パック",
+  "category": "other",
+  "description": "納豆を包んでいた藁です。再利用可能。",
+  "price": 0,
+  "weight": 2,
+  "volume": 0,
+  "to_hit": -1,
+  "contains": 10,
+  "rigid": false,
+  "material": "paper"
+}]

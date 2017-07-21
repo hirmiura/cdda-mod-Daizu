@@ -1,48 +1,46 @@
-[
-    {
-        "type" : "material",
-        "ident" : "daizu",
-        "name" : "大豆",
-        "bash_resist" : 1,
-        "cut_resist" : 1,
-        "bash_dmg_verb" : "squished",
-        "cut_dmg_verb" : "cut",
-        "dmg_adj" : [
-            "lightly damaged",
-            "damaged",
-            "very damaged",
-            "thoroughly damaged"
-        ],
-        "acid_resist" : 3,
-        "elec_resist" : 1,
-        "fire_resist" : 1,
-        "chip_resist" : 1,
-        "density" : 3,
-        "edible": true,
-        "vitamins": [
-          [ "calcium", 0.1 ],
-          [ "vitA", 1.0 ],
-          [ "vitC", 0.5 ]
-        ]
-    },{
-        "type" : "material",
-        "ident" : "kouji",
-        "name" : "麹",
-        "bash_resist" : 1,
-        "cut_resist" : 1,
-        "bash_dmg_verb" : "squished",
-        "cut_dmg_verb" : "cut",
-        "dmg_adj" : [
-            "lightly damaged",
-            "damaged",
-            "very damaged",
-            "thoroughly damaged"
-        ],
-        "acid_resist" : 3,
-        "elec_resist" : 1,
-        "fire_resist" : 1,
-        "chip_resist" : 1,
-        "density" : 3,
-        "edible": true
-    }
-]
+[{
+  "type": "material",
+  "ident": "daizu",
+  "name": "大豆",
+  "bash_resist": 1,
+  "cut_resist": 1,
+  "bash_dmg_verb": "squished",
+  "cut_dmg_verb": "cut",
+  "dmg_adj": [
+    "lightly damaged",
+    "damaged",
+    "very damaged",
+    "thoroughly damaged"
+  ],
+  "acid_resist": 3,
+  "elec_resist": 1,
+  "fire_resist": 1,
+  "chip_resist": 1,
+  "density": 3,
+  "edible": true,
+  "vitamins": [
+    ["calcium", 0.1],
+    ["vitA", 1.0],
+    ["vitC", 0.5]
+  ]
+}, {
+  "type": "material",
+  "ident": "kouji",
+  "name": "麹",
+  "bash_resist": 1,
+  "cut_resist": 1,
+  "bash_dmg_verb": "squished",
+  "cut_dmg_verb": "cut",
+  "dmg_adj": [
+    "lightly damaged",
+    "damaged",
+    "very damaged",
+    "thoroughly damaged"
+  ],
+  "acid_resist": 3,
+  "elec_resist": 1,
+  "fire_resist": 1,
+  "chip_resist": 1,
+  "density": 3,
+  "edible": true
+}]
