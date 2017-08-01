@@ -51,6 +51,11 @@ data/modsフォルダの中に、Daizu_modフォルダをコピーして下さ�
 
 # 更新履歴
 
+## [3.0.1](https://github.com/hirmiura/cdda-mod-Daizu/tree/3.0.1) (2017-08-01)
+[Full Changelog](https://github.com/hirmiura/cdda-mod-Daizu/compare/3.0.0...3.0.1)
+
+- 豆乳作成レシピに食用酢を追加
+
 ## [3.0.0](https://github.com/hirmiura/cdda-mod-Daizu/tree/3.0.0) (2017-07-22)
 
 - フォーク後の初リリース
