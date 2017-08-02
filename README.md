@@ -51,6 +51,12 @@ data/modsフォルダの中に、Daizu_modフォルダをコピーして下さ�
 
 # 更新履歴
 
+## [3.0.2](https://github.com/hirmiura/cdda-mod-Daizu/tree/3.0.2) (2017-08-03)
+[Full Changelog](https://github.com/hirmiura/cdda-mod-Daizu/compare/3.0.1...3.0.2)
+
+- 醤油が醗酵しないバグの修正
+- 味噌周りをいろいろ修正
+
 ## [3.0.1](https://github.com/hirmiura/cdda-mod-Daizu/tree/3.0.1) (2017-08-01)
 [Full Changelog](https://github.com/hirmiura/cdda-mod-Daizu/compare/3.0.0...3.0.1)
 
