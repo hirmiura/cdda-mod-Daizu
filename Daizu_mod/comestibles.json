@@ -136,7 +136,8 @@
       "msg": "良い香りです！　熟成は成功しました！",
       "moves": 0,
       "target": "miso",
-      "container": "miso_taru"
+      "container": "miso_taru",
+      "target_charges": 75
     }
   }, {
     "type": "COMESTIBLE",
