@@ -143,7 +143,7 @@
     "id": "miso",
     "name": "味噌",
     "name_plural": "味噌",
-    "weight": 500,
+    "weight": 115,
     "color": "brown",
     "addiction_type": "none",
     "spoils_in": 0,
@@ -160,10 +160,10 @@
     "description": "熟成を済ませたお味噌です。江戸時代の本草書である本朝食鑑によると、この食材は医者殺しと呼ばれるくらいの健康食品として扱われていました。",
     "price": 300,
     "tool": "null",
-    "volume": 10,
+    "volume": 30,
     "cutting": 0,
     "phase": "solid",
-    "charges": 100,
+    "charges": 75,
     "bashing": 0,
     "fun": 1
   }, {
