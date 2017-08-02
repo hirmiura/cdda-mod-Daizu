@@ -86,7 +86,7 @@
     "id": "brew_soysauce",
     "name": "醤油(未発酵)",
     "name_plural": "醤油(未発酵)",
-    "description": "発酵させれば立派な醤油になりますよ。70時間かかりますが。",
+    "description": "発酵させれば立派な醤油になりますよ。",
     "weight": 24,
     "color": "yellow",
     "addiction_type": "none",
@@ -109,8 +109,10 @@
     "bashing": 0,
     "phase": "liquid",
     "comestible_type": "DRINK",
-    "flags": ["BREW"],
-    "brew_time": 42000
+    "brewable": {
+      "time": 42000,
+      "results": ["soysauce"]
+    }
   }, {
     "type": "GENERIC",
     "id": "miso_before",
