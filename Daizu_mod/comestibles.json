@@ -119,7 +119,7 @@
     "name": "味噌(未熟成)",
     "name_plural": "味噌(未熟成)",
     "description": "熟成させている最中の味噌です。放っておけば8日後には完成します。",
-    "weight": 6360,
+    "weight": 14985,
     "symbol": ";",
     "color": "brown",
     "addiction_type": "none",
