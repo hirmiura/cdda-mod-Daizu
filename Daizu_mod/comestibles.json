@@ -818,8 +818,10 @@
     "bashing": 0,
     "phase": "liquid",
     "comestible_type": "DRINK",
-    "flags": ["BREW"],
-    "brew_time": 42000
+    "brewable": {
+      "time": 42000,
+      "results": ["mirin"]
+    }
   }, {
     "type": "COMESTIBLE",
     "id": "nikujaga",
