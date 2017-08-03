@@ -133,7 +133,7 @@
       "type": "delayed_transform",
       "transform_age": 115200,
       "not_ready_msg": "味噌を熟成させています。",
-      "msg": "良い香りです！　熟成は成功しました！",
+      "msg": "良い香りです！熟成は成功しました！",
       "moves": 0,
       "target": "miso",
       "container": "miso_taru",
@@ -357,7 +357,7 @@
       "type": "delayed_transform",
       "transform_age": 14400,
       "not_ready_msg": "大豆を発酵させています。",
-      "msg": "独特な香りが漂ってきました！　完成です！",
+      "msg": "独特な香りが漂ってきました！完成です！",
       "target": "nattou",
       "container": "straw_pack"
     }
@@ -702,7 +702,7 @@
       "type": "delayed_transform",
       "transform_age": 28800,
       "not_ready_msg": "麹を培養しています。",
-      "msg": "充分に培養できました！　完成です！",
+      "msg": "充分に培養できました！完成です！",
       "target": "kouji",
       "container": "bag_plastic"
     }
