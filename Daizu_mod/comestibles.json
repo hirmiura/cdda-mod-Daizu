@@ -6,7 +6,7 @@
     "weight": 100,
     "color": "white",
     "addiction_type": "none",
-    "spoils_in": 720,
+    "spoils_in": 0,
     "stim": 0,
     "container": "null",
     "to_hit": 0,
